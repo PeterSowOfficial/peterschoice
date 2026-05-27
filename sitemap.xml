@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Home -->
+  <url>
+    <loc>https://peterschoice.store/</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/"/>
+  </url>
+
+  <!-- Sold -->
+  <url>
+    <loc>https://peterschoice.store/sold.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Product Pages -->
+  <url>
+    <loc>https://peterschoice.store/products/esp-ex-diamond-plate.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/esp-ex-diamond-plate.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/esp-ex-diamond-plate.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/esp-ex-diamond-plate.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/esp-ex-diamond-plate.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/fender-59-stratocaster-brazilian-rosewood-yuri-shishkov.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/fender-59-stratocaster-brazilian-rosewood-yuri-shishkov.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/fender-59-stratocaster-brazilian-rosewood-yuri-shishkov.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/fender-59-stratocaster-brazilian-rosewood-yuri-shishkov.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/fender-59-stratocaster-brazilian-rosewood-yuri-shishkov.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/fender-62-poblano-stratocaster-relic-david-brown.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/fender-62-poblano-stratocaster-relic-david-brown.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/fender-62-poblano-stratocaster-relic-david-brown.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/fender-62-poblano-stratocaster-relic-david-brown.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/fender-62-poblano-stratocaster-relic-david-brown.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/fender-custom-shop-1957-michael-landau-signature.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/fender-custom-shop-1957-michael-landau-signature.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/fender-custom-shop-1957-michael-landau-signature.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/fender-custom-shop-1957-michael-landau-signature.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/fender-custom-shop-1957-michael-landau-signature.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/fender-custom-shop-59-stratocaster-fiesta-red-todd-krause.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/fender-custom-shop-59-stratocaster-fiesta-red-todd-krause.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/fender-custom-shop-59-stratocaster-fiesta-red-todd-krause.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/fender-custom-shop-59-stratocaster-fiesta-red-todd-krause.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/fender-custom-shop-59-stratocaster-fiesta-red-todd-krause.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/fender-joe-strummer-esquire.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/fender-joe-strummer-esquire.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/fender-joe-strummer-esquire.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/fender-joe-strummer-esquire.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/fender-joe-strummer-esquire.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/gibson-55-lp-std-tak-matsumoto-gold-top.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/gibson-55-lp-std-tak-matsumoto-gold-top.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/gibson-55-lp-std-tak-matsumoto-gold-top.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/gibson-55-lp-std-tak-matsumoto-gold-top.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/gibson-55-lp-std-tak-matsumoto-gold-top.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/gibson-69-flying-v-jimi-hendrix-ebony-aged.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/gibson-69-flying-v-jimi-hendrix-ebony-aged.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/gibson-69-flying-v-jimi-hendrix-ebony-aged.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/gibson-69-flying-v-jimi-hendrix-ebony-aged.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/gibson-69-flying-v-jimi-hendrix-ebony-aged.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/gibson-custom-shop-59-les-paul-r9-murphy-lab.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/gibson-custom-shop-59-les-paul-r9-murphy-lab.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/gibson-custom-shop-59-les-paul-r9-murphy-lab.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/gibson-custom-shop-59-les-paul-r9-murphy-lab.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/gibson-custom-shop-59-les-paul-r9-murphy-lab.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/gibson-custom-shop-murphy-lab-1959-les-paul-green-lemon.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/gibson-custom-shop-murphy-lab-1959-les-paul-green-lemon.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/gibson-custom-shop-murphy-lab-1959-les-paul-green-lemon.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/gibson-custom-shop-murphy-lab-1959-les-paul-green-lemon.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/gibson-custom-shop-murphy-lab-1959-les-paul-green-lemon.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/gibson-songmaker-dsr.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/gibson-songmaker-dsr.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/gibson-songmaker-dsr.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/gibson-songmaker-dsr.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/gibson-songmaker-dsr.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/gretsch-1974-white-falcon.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/gretsch-1974-white-falcon.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/gretsch-1974-white-falcon.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/gretsch-1974-white-falcon.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/gretsch-1974-white-falcon.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/ibanez-js2-chrome-boy.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/ibanez-js2-chrome-boy.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/ibanez-js2-chrome-boy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/ibanez-js2-chrome-boy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/ibanez-js2-chrome-boy.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/ibanez-pgm900-paul-gilbert.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/ibanez-pgm900-paul-gilbert.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/ibanez-pgm900-paul-gilbert.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/ibanez-pgm900-paul-gilbert.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/ibanez-pgm900-paul-gilbert.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/ibanez-rbm2nt.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/ibanez-rbm2nt.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/ibanez-rbm2nt.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/ibanez-rbm2nt.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/ibanez-rbm2nt.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/ibanez-tsv808.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/ibanez-tsv808.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/ibanez-tsv808.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/ibanez-tsv808.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/ibanez-tsv808.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/klein-usa-smk-alder.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/klein-usa-smk-alder.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/klein-usa-smk-alder.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/klein-usa-smk-alder.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/klein-usa-smk-alder.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/martin-gc-16gte.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/martin-gc-16gte.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/martin-gc-16gte.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/martin-gc-16gte.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/martin-gc-16gte.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/takamine-e30.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/takamine-e30.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/takamine-e30.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/takamine-e30.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/takamine-e30.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/taylor-210.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/taylor-210.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/taylor-210.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/taylor-210.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/taylor-210.html"/>
+  </url>
+
+  <url>
+    <loc>https://peterschoice.store/products/vigier-excalibur-supra-rock-art.html</loc>
+    <lastmod>2026-05-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://peterschoice.store/products/vigier-excalibur-supra-rock-art.html"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://peterschoice.store/products/vigier-excalibur-supra-rock-art.html"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://peterschoice.store/products/vigier-excalibur-supra-rock-art.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://peterschoice.store/products/vigier-excalibur-supra-rock-art.html"/>
+  </url>
+
+</urlset>
